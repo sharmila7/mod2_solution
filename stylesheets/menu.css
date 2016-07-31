@@ -63,7 +63,7 @@
 }
 .right{
 	clear:left;
-	width:30%;
+	width:100px;
 	float:right;
 	border:solid 1px black;
 	text-align:center;
